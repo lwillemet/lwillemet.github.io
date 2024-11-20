@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "laurence-headshot.jpg"
   name             : "Laurence Willemet"
-  pronouns         : she/her# example: "she/her"  
+  pronouns         : "she/her" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Boston, Massachusetts"
   employer         : "MIT"
