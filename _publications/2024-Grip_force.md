@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-Grip_force
 excerpt: 'This paper is about how humans adjust their grip force under changes of load force and friction.'
-image: '/images/grip_force.jpg'
+image: '/images/grip_force.png'
 date: 2024-12-01
 venue: 'Journal of Physiology'
 slidesurl: #'http://academicpages.github.io/files/slides3.pdf'
