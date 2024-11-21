@@ -3,7 +3,7 @@ title: "Initial contact shapes the perception of friction"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-Initial_contact
-excerpt: 'This paper is about the perception of friction on initial contact based on a biomechanical model of skin deformation.<img style="float: right;" img src='/images/initial_contact.png'>'
+excerpt: 'This paper is about the perception of friction on initial contact based on a biomechanical model of skin deformation. ![A picture of a cat](/images/initial_contact.png){: style="float:right"}'
 date: 2021-12-01
 venue: 'Proceedings of the National Academy of Science'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
