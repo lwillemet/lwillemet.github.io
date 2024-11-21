@@ -1,13 +1,13 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "Getting a grip on the tactile perception of friction in humans and robots"
 collection: talks
 type: "Tutorial"
-permalink: /talks/2013-03-01-tutorial-1
-venue: "UC-Berkeley Institute for Testing Science"
+permalink: /talks/2024_MIT-class
+venue: "MIT"
 date: 2013-03-01
-location: "Berkeley CA, USA"
+location: "Cambridge MA, USA"
 ---
 
-[More information here](http://exampleurl.com)
+[Download the slides](/files/MIT_class.pdf)
 
 This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
