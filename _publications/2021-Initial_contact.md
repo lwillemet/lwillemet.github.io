@@ -12,4 +12,6 @@ paperurl: 'https://www.pnas.org/doi/full/10.1073/pnas.2109109118'
 citation: #'Willemet, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+**Abstract** Humans efficiently estimate the grip force necessary to lift a variety of objects, including slippery ones. The regulation of grip force starts with the initial contact, and takes into account the surface properties, such as friction. This estimation of the frictional strength has been shown to depend critically on cutaneous information. However, the physical and perceptual mechanism that provides such early tactile information remains elusive.
+
+In this study, we developed a friction-modulation apparatus to elucidate the effects of the frictional properties of objects during initial contact. We found a correlation between participants' conscious perception of friction and radial strain patterns of skin deformation. The results provide insights into the tactile cues made available by contact mechanics to the sensorimotor regulation of grip, as well as to the conscious perception of the frictional properties of an object.
