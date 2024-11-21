@@ -7,7 +7,7 @@ excerpt: 'This paper is about estimating the curvature of an object from a norma
 date: 2020-05-01
 venue: 'Paris, France'
 paperurl: 'https://mwiertlewski.github.io/pdf/pub/2020-XL-AB-MW.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
 **Abstract** The only way to perceive a small object held between our fingers is to trust our sense of touch. Touch provides cues about the state of the contact even if its view is occluded by the finger. The interaction between the soft fingers and the surface reveals crucial information, such as the local shape of the object, that plays a central role in fine manipulation. In this work, we present a new spherical sensor that endows robots with a fine distributed sense of touch. This sensor is an evolution of our distributed tactile sensor that measures the dense 3-dimensional displacement field of an elastic membrane, using the subtractive color-mixing principle. We leverage a planar manufacturing process that enables the design and manufacturing of the functional features on a flat surface. The flat functional panels are then folded to create a spherical shape able to sense a wide variety of objects.
