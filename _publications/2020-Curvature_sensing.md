@@ -4,8 +4,9 @@ collection: publications
 category: conferences
 permalink: /publication/2020-Curvature_sensing
 excerpt: 'This paper is about estimating the curvature of an object from a normal press on it.'
+image: '/images/curvature_sensing.ORF'
 date: 2020-05-01
-venue: 'Paris, France'
+venue: 'ICRA, 2020'
 paperurl: 'https://mwiertlewski.github.io/pdf/pub/2020-XL-AB-MW.pdf'
 citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
