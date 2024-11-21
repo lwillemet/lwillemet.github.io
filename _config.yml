@@ -24,7 +24,7 @@ author:
   avatar           : "laurence-headshot.jpg"
   name             : "Laurence Willemet"
   pronouns         : "she/her" # example: "she/her"  
-  bio              : "Postdoc fellow within CSAIL"
+  bio              : "Postdoc fellow at CSAIL"
   location         : "Boston, Massachusetts"
   employer         : "MIT"
   uri              : # URL
@@ -270,7 +270,7 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: true
       comment: true
   # _talks
