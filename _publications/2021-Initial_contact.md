@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2021-Initial_contact
 excerpt: 'This paper is about the perception of friction on initial contact based on a biomechanical model of skin deformation.'
+image: 'https://lwillemet.github.io/images/initial_contact.jpg'
 date: 2021-12-01
 venue: 'Proceedings of the National Academy of Science'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
