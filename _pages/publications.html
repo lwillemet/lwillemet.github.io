@@ -23,14 +23,31 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+      <div class="publication-entry">
+        {% if post.image %}
+          <!-- Render the image if provided -->
+          <img src="{{ post.image }}" alt="{{ post.title }}" style="float: left; margin-right: 15px; max-width: 150px;">
+        {% endif %}
+        <!-- Render the text -->
+        {% include archive-single.html %}
+        <div style="clear: both;"></div> <!-- Ensures layout consistency -->
+      </div>
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
-    {% include archive-single.html %}
+    <div class="publication-entry">
+      {% if post.image %}
+        <!-- Render the image if provided -->
+        <img src="{{ post.image }}" alt="{{ post.title }}" style="float: left; margin-right: 15px; max-width: 150px;">
+      {% endif %}
+      <!-- Render the text -->
+      {% include archive-single.html %}
+      <div style="clear: both;"></div> <!-- Ensures layout consistency -->
+    </div>
   {% endfor %}
 {% endif %}
+
 
 
 
