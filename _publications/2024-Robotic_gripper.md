@@ -1,7 +1,7 @@
 ---
 title: "Learning to estimate incipient slip with tactile sensing to gently grasp objects"
-collection: conferences
-category: manuscripts
+collection: publications
+category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about a new algorithm to control delicate robotic gripper based on the safety margin.'
 date: 2024-05-07
