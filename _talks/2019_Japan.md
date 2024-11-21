@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2019_Japan
 venue: "WorldHaptics Conference"
-date: 2012-03-01
+date: 2019-07-09
 location: "Tokyo, Japan"
 ---
 
