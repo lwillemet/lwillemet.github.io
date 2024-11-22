@@ -10,3 +10,5 @@ location: "Tokyo, Japan"
 
 I had the opportunity to present my work about the perception of friction on initial contact at a Workshop at the opening of the WorldHaptics Conference 2019.
 ![WorldHaptics 2019](/images/WH19_1.png)
+
+[Download the slides](/files/WHC Workshop.pdf)
