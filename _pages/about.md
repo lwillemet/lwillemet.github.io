@@ -15,6 +15,7 @@ Last year, I have been granted the [Marie Curie postdoctoral fellowship](https:/
 
 NEWS!
 ======
+* 2025-06: Our paper got accepted for IROS 2025!
 * 2024-11: Our paper got accepted in Journal of Physiology!
 * 2024-07: Our poster won the **Best Work-In-Progress** at the EuroHaptics conference in Lille, France.
 * 2024-04: I competed in the 4th MIT Research Slam and won the first place and the audience choice, worth an [article](https://news.mit.edu/2024/science-communication-competition-brings-research-into-real-world-0430) in the MIT News!
